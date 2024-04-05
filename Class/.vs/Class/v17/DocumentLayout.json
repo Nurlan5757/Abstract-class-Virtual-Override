@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|c:\\users\\hp\\onedrive\\desktop\\class\\class\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|solutionrelative:class\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|c:\\users\\hp\\onedrive\\desktop\\class\\class\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|solutionrelative:class\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|c:\\users\\hp\\onedrive\\desktop\\class\\class\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|solutionrelative:class\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|c:\\users\\hp\\onedrive\\desktop\\class\\class\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|solutionrelative:class\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|c:\\users\\hp\\onedrive\\desktop\\class\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9C9DA-D040-4B66-BDE8-455871DFD077}|Class\\Class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Class\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Doctor.cs",
+              "RelativeToolTip": "Class\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:40:46.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Class\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Student.cs",
+              "RelativeToolTip": "Class\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:40:37.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Class\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Employee.cs",
+              "RelativeToolTip": "Class\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:40:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Class\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Models\\Person.cs",
+              "RelativeToolTip": "Class\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:40:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Program.cs",
+              "RelativeDocumentMoniker": "Class\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Class\\Class\\Program.cs",
+              "RelativeToolTip": "Class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:39:45.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
